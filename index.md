@@ -72,3 +72,19 @@ in_menu: true
       </div>
     </div>
   </article> 
+
+## Les documents dématerialisés
+
+  <article class="framalibre-notice">
+    <div>
+       <img src="https://raw.githubusercontent.com/paperless-ngx/paperless-ngx/dev/resources/logo/web/png/Color%20logo%20-%20no%20background.png">
+    </div>
+    <div>
+      <h2>Paperless</h2>
+      <p>Gestion documentaires</p>
+      <div>
+        <a href="https://docs.paperless-ngx.com/">Vers la documentation</a>
+        <a href="http://ticot:8000/">Vers le site</a>
+      </div>
+    </div>
+  </article> 
