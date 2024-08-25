@@ -3,11 +3,9 @@ title: "Outils Divers"
 order: 0
 in_menu: true
 ---
-# Accessible partout
+# Appli telephone
 
-## Appli telephone
-
-### Controler les framboises
+## Controler les framboises
 
   <article class="framalibre-notice">
     <div>
@@ -23,7 +21,7 @@ in_menu: true
     </div>
   </article>
 
-### Lire Youtube en toute liberté (Appli sur le téléphone)
+## Lire Youtube en toute liberté (Appli sur le téléphone)
 
 
   <article class="framalibre-notice">
@@ -40,8 +38,11 @@ in_menu: true
     </div>
   </article>
 
+# Sites
 
-## Le cloud famillial
+## Accessible partout
+
+### Le cloud famillial
 
   <article class="framalibre-notice">
     <div>
@@ -58,7 +59,7 @@ in_menu: true
   </article> 
 
 
-## Les arrangements GROUM(p)F!
+### Les arrangements GROUM(p)F!
 
   <article class="framalibre-notice">
     <div>
@@ -74,9 +75,9 @@ in_menu: true
     </div>
   </article>
 
-# Seulement dans la maison
+## Seulement dans la maison
 
-## Le multimedia dans la maison (Marche uniquement sur le wifi)
+### Le multimedia dans la maison (Marche uniquement sur le wifi)
 
 
   <article class="framalibre-notice">
@@ -93,7 +94,7 @@ in_menu: true
     </div>
   </article> 
 
-## Les documents dématerialisés
+### Les documents dématerialisés
 
   <article class="framalibre-notice">
     <div>
