@@ -5,6 +5,42 @@ in_menu: true
 ---
 # Accessible partout
 
+## Appli telephone
+
+### Controler les framboises
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Kore.png">
+    </div>
+    <div>
+      <h2>Kore</h2>
+      <p>Contrôlez votre media center Kodi depuis votre smartphone.</p>
+      <div>
+        <a href="https://framalibre.org/notices/kore.html">Vers la notice Framalibre</a>
+        <a href="http://kodi.tv/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+### Lire Youtube en toute liberté (Appli sur le téléphone)
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/NewPipe.png">
+    </div>
+    <div>
+      <h2>NewPipe</h2>
+      <p>Client multimédia YouTube, PeerTube, SoundCloud &amp; MediaCCC libre pour Android.</p>
+      <div>
+        <a href="https://framalibre.org/notices/newpipe.html">Vers la notice Framalibre</a>
+        <a href="https://newpipe.schabi.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
 ## Le cloud famillial
 
   <article class="framalibre-notice">
@@ -21,22 +57,6 @@ in_menu: true
     </div>
   </article> 
 
-## Lire Youtube en toute liberté (Appli sur le téléphone)
-
-
-  <article class="framalibre-notice">
-    <div>
-      <img src="https://framalibre.org/images/logo/NewPipe.png">
-    </div>
-    <div>
-      <h2>NewPipe</h2>
-      <p>Client multimédia YouTube, PeerTube, SoundCloud &amp; MediaCCC libre pour Android.</p>
-      <div>
-        <a href="https://framalibre.org/notices/newpipe.html">Vers la notice Framalibre</a>
-        <a href="https://newpipe.schabi.org/">Vers le site</a>
-      </div>
-    </div>
-  </article>
 
 ## Les arrangements GROUM(p)F!
 
