@@ -3,13 +3,7 @@ title: "Ma page de recommandations"
 order: 0
 in_menu: true
 ---
-C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
-
-Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
-
-Un exemple ci-dessous :
-
-# Mes logiciels libres pour randonner
+# Accessible partout
 
 ## Le cloud famillial
 
@@ -59,6 +53,8 @@ Un exemple ci-dessous :
       </div>
     </div>
   </article>
+
+# Seulement dans la maison
 
 ## Le multimedia dans la maison (Marche uniquement sur le wifi)
 
